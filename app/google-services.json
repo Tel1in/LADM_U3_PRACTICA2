@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "703568704500",
+    "project_id": "unidad3-63a98",
+    "storage_bucket": "unidad3-63a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703568704500:android:2b991e0897baf6af75bfa1",
+        "android_client_info": {
+          "package_name": "mx.tecm.IIGS.LADM_U3_Ejercicio3_FirebaseFirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703568704500-frs4rfrckq4r11uvlofa1812mm0jn7h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5duQ74eO_Z5GDncJfj8puQynp2Z4Dgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703568704500-frs4rfrckq4r11uvlofa1812mm0jn7h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703568704500:android:12aec780357c0b5b75bfa1",
+        "android_client_info": {
+          "package_name": "mx.tecm.iigs.ladm_u3_practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703568704500-frs4rfrckq4r11uvlofa1812mm0jn7h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5duQ74eO_Z5GDncJfj8puQynp2Z4Dgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703568704500-frs4rfrckq4r11uvlofa1812mm0jn7h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
